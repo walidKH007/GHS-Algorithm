@@ -1,0 +1,4 @@
+1 --> 5 with weight w = 1
+2 --> 1 with weight w = 1
+2 --> 4 with weight w = 11
+3 --> 5 with weight w = 3
